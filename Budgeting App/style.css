@@ -1,0 +1,112 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  background-color: rgb(236, 240, 241);
+  font-family: arial;
+}
+
+h1 {
+  margin-left: 30px;
+  padding: 20px;
+}
+
+h3 {
+  margin: 5px;
+}
+h2 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.btn {
+  padding: 8px;
+  margin-top: 10px;
+  background-color: transparent;
+  border-radius: 5px;
+  border: solid 2px;
+  font-size: 15px;
+}
+
+.btn:hover {
+  background-color: rgb(204, 225, 226);
+}
+
+.calculate {
+  border-color: rgb(103, 180, 114);
+}
+
+.expense {
+  border-color: rgb(204, 107, 107);
+}
+
+.enter-total {
+  border: 2px solid rgb(103, 180, 114);
+  width: 350px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-bottom: 50px;
+  border-radius: 5px;
+}
+
+.expenses {
+  border: 2px solid rgb(204, 107, 107);
+  width: 350px;
+  padding: 10px;
+  margin-left: 30px;
+  border-radius: 5px;
+}
+
+input {
+  height: 30px;
+  width: 340px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: solid rgb(182, 182, 182) 2px;
+  margin-bottom: 5px;
+}
+
+.left {
+  float: left;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.right {
+  margin-left: 30px;
+  float: right;
+  display: flex;
+  float: left;
+}
+
+.t3 {
+  margin-left: 40px;
+  margin-right: 40px;
+  left: 5px;
+}
+
+.img {
+  padding-top: 30px;
+  height: 120px;
+  width: 120px;
+  background: transparent;
+  float: center;
+}
+
+.total {
+  font-size: 20px;
+}
+
+.bgt {
+  color: rgb(66, 177, 83);
+}
+
+.exp {
+  color: rgb(190, 72, 72);
+}
+p {
+  text-align: center;
+  margin-top: 25px;
+  font-size: 20px;
+}
